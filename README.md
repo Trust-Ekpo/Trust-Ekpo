@@ -6,9 +6,10 @@
 
 <hr>
 🌐 Let's Connect!
-- Linkedin: [https://www.linkedin.com/in/trust-ekpo/](/https://www.linkedin.com/in/trust-ekpo/)
-- Youtube: [https://www.youtube.com/@trustekpo](/https://www.youtube.com/@trustekpo)
-- Blog: [https://trustekpo.hashnode.dev/](/https://trustekpo.hashnode.dev/)
+
+- [Linkedin](/https://www.linkedin.com/in/trust-ekpo/)
+- [Youtube](/https://www.youtube.com/@trustekpo)
+- [Blog](/https://trustekpo.hashnode.dev/)
 
 
 
