@@ -1,4 +1,9 @@
-## Hi there, I'm Trust 👋
+## Hi there! I'm Trust 👋
+
+🎓 Cybersecurity Master's Student | 🌐 Aspiring Cloud Security Specialist
+🍃 Currently learning Cloud Security 
+🔒 Passionate about cyber defense, vulnerability management, and entry-level cloud security roles
+
 
 <!--
 **Trust-Ekpo/Trust-Ekpo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
