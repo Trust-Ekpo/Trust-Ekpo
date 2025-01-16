@@ -5,7 +5,8 @@
 <p>🔒 Passionate about cyber defense, vulnerability management, and entry-level cloud security roles</p>
 
 <hr>
-🌐 Let's Connect!
+
+## 🌐 Let's Connect!
 
 - [Linkedin](/https://www.linkedin.com/in/trust-ekpo/)
 - [Youtube](/https://www.youtube.com/@trustekpo)
