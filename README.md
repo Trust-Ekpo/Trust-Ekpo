@@ -2,7 +2,7 @@
 
 <p>🎓 Cybersecurity Master's Student | 🌐 Aspiring Cloud Security Specialist</p>
 <p>🍃 Currently learning Cloud Security</p>
-<p>🔒 Passionate about cyber defense, vulnerability management, and entry-level cloud security roles</p>
+<p>🔒 Passionate about cyber defence, vulnerability management, and entry-level cloud security roles</p>
 
 <hr>
 
